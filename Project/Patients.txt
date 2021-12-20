@@ -1,0 +1,14 @@
+Id:  1 Name:  mujtaba Age:  21 Gender:  male Phone#:  123456 Bill:  0 Insurace Status:Yes
+Id:  2 Name:  ali Age:  21 Gender:  female Phone#:  1246 Bill:  0 Insurace Status:No
+Id:  7 Name:  aaema Age:  21 Gender:  Female Phone#:  0 Bill:  0 Insurace Status:No
+Id:  23 Name:  azka Age:  23 Gender:  Female Phone#:  31216 Bill:  35000 Insurace Status:Yes
+Id:  24 Name:  azka Age:  23 Gender:  Female Phone#:  31216 Bill:  0 Insurace Status:Yes
+Id:  35 Name:  huzziafa Age:  20 Gender:  Male Phone#:  0 Bill:  0 Insurace Status:Yes
+Id:  55 Name:  Maryam Age:  65 Gender:  Female Phone#:  426 Bill:  0 Insurace Status:Yes
+Id:  69 Name:  Kashfa Age:  21 Gender:  Female Phone#:  32645 Bill:  12005 Insurace Status:Yes
+Id:  77 Name:  Musa Age:  23 Gender:  Male Phone#:  2770 Bill:  19200 Insurace Status:No
+Id:  78 Name:  Zainab Age:  21 Gender:  Female Phone#:  27700 Bill:  24000 Insurace Status:No
+Id:  99 Name:  ali Age:  21 Gender:  female Phone#:  1246 Bill:  0 Insurace Status:Yes
+Id:  100 Name:  aaemaa Age:  21 Gender:  Female Phone#:  134 Bill:  80000 Insurace Status:Yes
+Id:  145 Name:  aaema Age:  21 Gender:  Female Phone#:  0 Bill:  0 Insurace Status:Yes
+Id:  256 Name:  azka Age:  23 Gender:  Female Phone#:  31216 Bill:  294000 Insurace Status:No
